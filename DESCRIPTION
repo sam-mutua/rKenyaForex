@@ -1,0 +1,14 @@
+Package: rKenyaForex
+Title: Provides historical data on Kenya Foreign Exchange Prices
+Version: 0.1.0
+Authors@R: 
+    person("Mutua", "Samuel", , "mutuakilai@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Provides historical data from October 2017 to 2022 February.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
